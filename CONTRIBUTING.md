@@ -107,7 +107,7 @@ We want your work to be readable by others; therefore, we encourage you to note 
   ```python
   def sum_ab(a, b):
       """
-      Return the sum of two integers a and b.
+      Return the sum of two integers a and b.   
       """
       return a + b
   ```
